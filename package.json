@@ -1,0 +1,31 @@
+{
+  "name": "marslight-mirage-use",
+  "version": "1.0.0",
+  "description": "Utilize Mirage for specific tasks and activities, enhancing overall experience.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finestduets22/marslight-mirage-use"
+  },
+  "author": "finestduets22",
+  "license": "MIT",
+  "dependencies": {
+    "marslight-mirage": "1.0.0",
+    "marslight-mirage-use": "1.0.0",
+    "pg": "1.0.0",
+    "redux": "1.0.0",
+    "solc": "1.0.0",
+    "firebase": "1.0.0",
+    "axios": "1.0.0",
+    "ethers": "1.0.0",
+    "mocha": "1.0.0",
+    "ejs": "1.0.0",
+    "bluebird": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "babel-core": "1.0.0",
+    "nodemon": "1.0.0"
+  }
+}
